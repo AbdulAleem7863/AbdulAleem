@@ -1,5 +1,5 @@
 
-[![MasterHead](github-header-image.png)]
+![MasterHead](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Aleem</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
