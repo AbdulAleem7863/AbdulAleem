@@ -1,7 +1,8 @@
-# AbdulAleem
 
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNnd3hrcjFsaHo3MDc0NzJzajR5eXllc25xbzFhM2cxNWgxeTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yVUwmr64Ldc3MfSu0I/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Aleem</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrgNVtzJcdmhQMrg0CJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzQwNzgyYWY2MDJhMmI5NDk5ODA5N2ZhOTJhZjNkNzZkBGdwb3MDMTIEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dgithub%2Bbackground%2Bimage%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D12&w=1920&h=1080&imgurl=wallpaperaccess.com%2Ffull%2F3415145.png&rurl=https%3A%2F%2Fwallpaperaccess.com%2Fgithub&size=341.2KB&p=github+background+image&oid=40782af602a2b94998097fa92af3d76d&fr2=piv-web&fr=mcafee&tt=GitHub+Wallpapers+-+Top+Free+GitHub+Backgrounds+-+WallpaperAccess&b=0&ni=21&no=12&ts=&tab=organic&sigr=8lbAvzYUL9pJ&sigb=ANhW.QVCA_D6&sigi=M4YdYwjhwDse&sigt=fpbTwkyjMYAe&.crumb=vJr.3mAWfUU&fr=mcafee&fr2=piv-web&type=E210US91215G0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaleem7863&label=Profile%20views&color=0e75b6&style=flat" alt="abdulaleem7863" /> </p>
 
